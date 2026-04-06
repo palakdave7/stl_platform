@@ -4,7 +4,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.1.0-646CFF.svg)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC.svg)](https://tailwindcss.com/)
 
-An interactive, visual learning platform for mastering C++ Standard Template Library (STL). Designed specifically for 1st and 2nd year computer science students with beginner-friendly explanations, real-time visualizations, and hands-on practice exercises.
+An interactive, visual learning platform for mastering C++ Standard Template Library (STL).
 
 ## ✨ Features
 
